@@ -1,9 +1,8 @@
-
-# HAVitSync
+# <p align="center">HAVitSync</p>
 
 **HAVitSync** is a modern, AI-powered health and activity tracker that helps you monitor your study, workout, meal, and sleep habits—all in one beautiful dashboard. Get personalized insights, set goals, and visualize your progress with ease.
 
-![HAVitSync Dashboard Screenshot](public/placeholder.svg)
+<!-- ![HAVitSync Dashboard Screenshot](public/placeholder.svg) -->
 
 ## 🚀 Features
 
@@ -21,7 +20,7 @@
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Zustand](https://zustand-demo.pmnd.rs/) for state management
 - [date-fns](https://date-fns.org/) for date utilities
-- [Supabase](https://supabase.com/) & [Firebase](https://firebase.google.com/) integrations
+- [Firebase](https://firebase.google.com/) integrations
 - [Gemini AI](https://ai.google.dev/) for insights
 
 ## 📦 Getting Started
