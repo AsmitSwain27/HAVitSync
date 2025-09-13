@@ -1,4 +1,4 @@
-# <p align="center">HAVitSync</p>
+# <p align="center">🏋️‍♂️ HAVitSync 🥗💤</p>
 
 **HAVitSync** is a modern, AI-powered health and activity tracker that helps you monitor your study, workout, meal, and sleep habits—all in one beautiful dashboard. Get personalized insights, set goals, and visualize your progress with ease.
 
