@@ -34,7 +34,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/your-username/havitsync.git
+git clone https://github.com/AsmitSwain27/HAVitSync.git
 cd havitsync
 
 # 2. Install dependencies
