@@ -32,37 +32,42 @@
 
 ### Installation
 
+1. Clone the repository
 ```bash
-# 1. Clone the repository
 git clone https://github.com/AsmitSwain27/HAVitSync.git
 cd havitsync
+```
 
-# 2. Install dependencies
+2. Install dependencies
+```bash
 npm install
 # or
 yarn install
+```
 
-# 3. Start the development server
+3. Start the development server
+
+```bash
 npm run dev
 # or
 yarn dev
 ```
-
-Open [http://localhost:5173](http://localhost:5173) to view the app in your browser.
+4. Open http://localhost:8000 to view it in the browser.
 
 ## ⚙️ Project Structure
 
 ```
 src/
-	components/      # Reusable UI and feature components
-	pages/           # Main page components (Index, NotFound, etc.)
-	store/           # Zustand store for tracker data
-	integrations/    # API clients (Gemini, Firebase, Supabase)
-	hooks/           # Custom React hooks
-	contexts/        # React context providers
-	assets/          # Images and media
-	lib/             # Utility functions
-public/            # Static assets
+├── components/      # Reusable UI and feature components
+│   └── ui/          # Basic UI components
+├── pages/           # Main page components (Index, NotFound, etc.)
+├── store/           # Zustand store for tracker data
+├──	integrations/    # API clients (Gemini, Firebase, Supabase)
+├──	hooks/           # Custom React hooks
+├──	contexts/        # React context providers
+├──	assets/          # Images and media
+└──	lib/             # Utility functions
+public/              # Static assets
 ```
 
 ## 🧠 AI Insights
@@ -78,15 +83,32 @@ HAVitSync uses Gemini AI to analyze your activity data and provide:
 
 Contributions are welcome! Please open an issue or submit a pull request for bug fixes, new features, or improvements.
 
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -am 'Add new feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Open a pull request
+- Fork the repository
+- Create your feature branch
+```bash
+git checkout -b feature/your-feature
+```
+- Commit your changes:
+```bash
+git commit -m "Add new feature"
+```
+- Push to your branch:
+```bash
+git push origin feature-name
+```
+- Open a Pull Request!
 
 ## 📄 License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+## 👨‍💻 Author
+
+**ASMIT SWAIN**
+- GitHub: [@AsmitSwain27](https://github.com/AsmitSwain27)
+- LinkedIn: [Asmit Swain](https://linkedin.com/in/asmit-swain27a15/)
+- Portfolio Website: [portfolio-asmit-swain.com](https://portfolio-asmit-swain.netlify.app/)
+- Email: [@asmitswain](swain.asmit2006@gmail.com)  
 
 ## 🙏 Acknowledgements
 
